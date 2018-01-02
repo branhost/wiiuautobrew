@@ -1,0 +1,48 @@
+Please read the whole thing!
+
+Formatting the SD Card Properly
+-----------------------
+Start with a 16GB (or more) SD Card. Put it in your computer and open the file explorer.
+If it doesn't show up, take it out and check the lock slider. Move any data you need off
+the SD Card (formatting wipes all the data on it). Right click on the SD Card and click
+Format. Set the File System option to FAT32 and the Allocation Unit Size to 64 kilobytes.
+Make sure that Quick Format is checked and that the volume label isn't called wiiu then 
+click Format. 
+
+Instructions
+-----------
+First you have to create your homebrew package. Before you do so finish reading this and 
+the requirements. Press 1 on the menu to start to create it. You will need to pick a 
+method (read the info section). You also can install both if you want to pick a method 
+later. Once you pick a method or install both methods the homebrew package will be created.
+After that you need to move it to the formatted SD Card. Press 2 on the menu to move the 
+package to the SD Card. You will get a list of drives on your computer. Type the drive letter
+the SD Card is on and press enter. You will see the moving process happen. Once finished open
+the file explorer,right click on the SD Card, and choose Eject. Wait for the Safe to Remove Hardware
+notification then you can pull out the sd card.
+
+
+Information
+-----------
+Process:
+After you run the utility you will use a website that
+exploits the browser and boots into the Homebrew Channel.
+From there you can install Custom Firmware (CFW) to do what you want to your Wii U.
+CFW is just like a jailbroken iPhone or rooted Android device.
+
+What is CFW:
+CFW is custom firmware meaning that you can run unsigned code and apps on your Wii U.
+You can also install these unsigned apps to the home screen.
+
+Methods:
+There are two CFW methods: Haxchi and Mocha CFW.
+Please read about both and choose one.
+
+Haxchi:
+Haxchi uses a compatible Virtual Console DS game from the eshop to use as a
+launcher for CFW on the home screen. Check list.txt for a compatibility list.
+
+Mocha CFW:
+Mocha CFW uses the browser exploit and homebrew channel to install CFW. This method
+doesn't require any games but requires you to do the browser exploit after every reboot.
+If you can, use the Haxchi method.  
