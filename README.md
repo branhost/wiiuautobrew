@@ -7,5 +7,5 @@ Release: [Click](https://github.com/branhost/wiiuautobrew/releases)<br>
 Source Code: [Click](https://github.com/branhost/wiiuautobrew/archive/1.0.zip)
 
 # Planned Updates
-SD Card Formatter (That will format to FAT32 and 64kb allocation size)
+SD Card Formatter (That will format to FAT32 and 64kb allocation size)<br>
 Better Menus
