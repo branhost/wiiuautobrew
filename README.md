@@ -9,3 +9,6 @@ Source Code: [Click](https://github.com/branhost/wiiuautobrew/archive/1.0.zip)
 # Planned Updates
 SD Card Formatter (That will format to FAT32 and 64kb allocation size)<br>
 Better Menus
+
+# GBA Temp
+Follow me on GBA Temp: [Click](https://gbatemp.net/members/greenman1.439395/)
